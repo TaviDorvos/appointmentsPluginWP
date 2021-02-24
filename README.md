@@ -1,6 +1,6 @@
 # appointmentsPluginWP
-This project is a plugin I've made for WordPress using <i>PHP</i> and <i>jQuery</i>.<br />
-It's not the best looking design, I've made it only with Bootstrap, trying to focus only on functionalities.
+This project is a plugin I've made for WordPress using <i>PHP</i>, <i>jQuery</i> and <i>Ajax</i>.<br />
+I've made it only with Bootstrap, trying to focus only on functionalities.
 
 The public front-end is represented by a form, which the clients are complete, selecting only the dates are available.
 ![First-page](https://user-images.githubusercontent.com/73690608/108724748-59c59b00-752e-11eb-9b85-142b8b24dd42.png)
